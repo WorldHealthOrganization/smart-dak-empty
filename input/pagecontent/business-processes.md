@@ -41,3 +41,5 @@ The workflows that follow depict processes that have been generalized across dif
 
 #### Overview of key <mark>[insert health domain here]</mark> process flows
 The business processes included in the DAK are shown in the following figure. Processes included in the DAK start with a letter (e.g. "A.") and are shown using the "Activity with sub-process" shape, which includes a plus sign. 
+
+The source files of the business processes designed for this DAK can be downloaded [here] (insert the link to the archive uploaded in ...input/business-processes. The link should look like "[health domain abbreviation] DAK_BPMN files.zip").
