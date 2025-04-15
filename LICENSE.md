@@ -4,41 +4,39 @@
      xmlns:xi="http://www.w3.org/2001/XInclude"
      lang="en">
 
-<p>SMART Guidelines, including this one, are required to express the license their copyright license.</p>
-<p>All WHO-authored SMART Guidelines shall be subject to the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License. This includes all commons and dependencies authored by the WHO and this current guidance.<p>
+<p>SMART Guidelines products are required to express their copyright license.</p>
 
-<h3>SMART Guidelines license details</h3>
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/igo/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/igo/88x31.png"/></a>
+<div class="info-box must">
+  <span class="info-title">Required licensing information</span>
+All WHO-authored SMART Guidelines are subject to the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO licence (<a href ="https://creativecommons.org/licenses/by-nc-sa/3.0/igo/">CC-BY-NC-SA-3.0-IGO</a>).
+</div>
 
-<p>This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/igo/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO License</a>.</p>
 
-<p>Copyright(c) 2022 World Health Organization Some rights reserved.</p>
+<h3>SMART Guidelines "smart-dak-empty" repository license details</h3>
+
+<div class="info-box must">
+  <span class="info-title">L2 "smart-dak-empty" repository</span>
+
+<p> &copy; World Health Organization 2025. Some rights reserved.</p>
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is available under the <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 licence<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
+<p>
+Under the terms of this licence, you may copy, redistribute and adapt the work, including for commercial purposes, provided the attribution notice below is included in your work. In any use of this work, there should be no suggestion that WHO endorses any specific organization, products or services. The use of the WHO logo is not permitted.
+</p>
+<p>
+Attribution notice to include in your product: <br>
+This Digital Adaptation Kit (DAK) was developed based on the World Health Organization (WHO) SMART Guidelines methodology, specifically the WHO Standard Operating Procedure (SOP) for developing business requirements documentation in the format of WHO SMART guidelines digital adaptation kits (DAK), available here [URL: https://smart.who.int/ig-starter-kit/index.htm]. WHO is not responsible for the content included in this DAK.
+</p>
+
+<b>Disclaimers</b>
 
 <p>
-Under the terms of this licence, you may copy, redistribute and adapt the work for noncommercial purposes provided the work
-is appropriately cited, as indicated below. In any use of this work, there should be no suggestion that WHO endorses any specific
-organizations, products or services. The use of the WHO logo is not permitted. If you adapt the work, then you must license your
-work under the same or equivalent Creative Commons licence. If you create a translation of this work, you should add the following
-disclaimer along with the suggested citation: "This translation was not created by the World Health Organization (WHO). WHO is not
-responsible for the content or accuracy of this translation. The original English edition shall be the binding and authentic edition."
-Any mediation relating to disputes arising under the licence shall be conducted in accordance with the mediation rules of the World
-Intellectual Property Organization. (http://www.wipo.int/amc/en/mediation/rules/).
+All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall WHO be liable for damages arising from its use.
 </p>
+<p>
+Any dispute arising from or relating to this license, including its validity, interpretation, or application, shall, unless amicably settled, be subject to conciliation. In the event the dispute is not resolved by conciliation within thirty (30) days, the dispute shall be settled by arbitration. The arbitration shall be conducted in accordance with the modalities to be agreed upon by the parties or, in the absence of agreement within thirty (30) days of written communication of the intent to commence arbitration, with the UNCITRAL Arbitration Rules. The parties shall accept the arbitral award as final.
 
-<h3>License details for Software</h3>
-
-<p>Copyright(c) 2022 World Health Organization All rights reserved.</p>
-
-<p><a href ="https://opensource.org/license/bsd-3-clause/">3-clause BSD license</a></p>
-<p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:</p>
-<ol>
-<li>Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.</li>
-
-<li>Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.</li>
-
-<li>Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.</li>
-</ol>
-<p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 </p>
+</div>
 </div>
