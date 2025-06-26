@@ -20,3 +20,4 @@ For machine-readable representations, see the <a href="indicators-measures.html"
 | current* | [IMMZ DAK_indicators.xlsx](IMMZ DAK_indicators.xlsx) |
 |1.0.0 | [IMMZ DAK_indicators.xlsx](https://smart.who.int/dak-immz/v1.0.0/IMMZ DAK_indicators.xlsx) |
 |0.9.9 | [IMMZ DAK_indicators.xlsx](https://smart.who.int/dak-immz/v0.9.9/IMMZ DAK_indicators.xlsx) |
+-->
