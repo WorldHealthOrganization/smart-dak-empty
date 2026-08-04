@@ -61,10 +61,6 @@ pages:
     title: Data Models and Exchange
     system-actors.md:
       title: System Actors
-    sequence-diagrams.md:
-      title: Sequence Diagrams
-    transactions.md:
-      title: Transactions
 #    logical-models.md:                                                                                                                                                   
 #      title: Logical Models                                                                                                                                              
 #    profiles.xml:                                                                                                                                                        
@@ -110,7 +106,6 @@ menu:
     System Requirements: system-requirements.html
   Data Models and Exchange:
     System Actors: system-actors.html
-    Sequence Diagrams: sequence-diagrams.html
     Codings: codings.html
 
   Deployment:
