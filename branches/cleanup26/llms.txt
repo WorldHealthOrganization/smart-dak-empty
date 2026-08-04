@@ -1,0 +1,40 @@
+# smart.who.int.dak-empty#0.1.0: SMART DAK Empty
+
+## Pages
+
+* [Home](index.md)
+* [System Actors](system-actors.md)
+* [Business Requirements](business-requirements.md)
+* [System Requirements](system-requirements.md)
+* [Codings](codings.md)
+* [Changes](changes.md)
+* [User Scenarios](scenarios.md)
+* [Data Models and Exchange](data-models-and-exchange.md)
+* [Downloads](downloads.md)
+* [Artifact Index](artifacts.md)
+* [Business Processes](business-processes.md)
+* [DAK API Documentation Hub](dak-api.md)
+* [Adapting Guidelines for Country use](adapting.md)
+* [Decision-support logic](decision-logic.md)
+* [Mappings](maps.md)
+* [Scheduling logic](scheduling-logic.md)
+* [License](license.md)
+* [Deployment](deployment.md)
+* [Test Data](test-data.md)
+* [Non-functional Requirements](non-functional-requirements.md)
+* [Indicator and Performance Metrics](indicators.md)
+* [Dependencies](dependencies.md)
+* [Testing](testing.md)
+* [Reference Implementations](reference-implementations.md)
+* [Concepts](concepts.md)
+* [Functional Requirements](functional-requirements.md)
+* [Security and Privacy Considerations](security-privacy.md)
+* [References](references.md)
+* [Data Dictionary](dictionary.md)
+* [Generic Personas](personas.md)
+
+## Resources
+
+### ImplementationGuides
+
+* [SMART DAK Empty](index.md)
