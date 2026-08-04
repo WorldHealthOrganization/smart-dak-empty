@@ -7,7 +7,7 @@
 ![QA hints](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2FWorldHealthOrganization.github.io%2Fsmart-ig-empty%2Fqa.json&query=%24.hints&logoColor=yellow&label=QA%20hints&color=yellow)
 <!--/badges-->
 
-# WHO SMART GUIDELINES - EMPTY Digital Adaptation Kit (DAK)
+# WHO SMART GUIDELINES - EMPTY Digital Adaptation Kit (DAK) 
 
 An empty Digital Adaptation Kit (DAK) Implementation Guide to be used as a starting point for publishing SMART DAK content
 
