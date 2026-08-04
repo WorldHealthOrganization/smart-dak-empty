@@ -71,6 +71,8 @@ pages:
 #      title: Content profiles 
     codings.md:
       title: Codings
+  deployment.md:
+    title: Deployment
     security-privacy.md:
       title: Security and Privacy Considerations
     testing.md: 
